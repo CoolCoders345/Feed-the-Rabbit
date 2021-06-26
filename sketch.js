@@ -34,7 +34,7 @@ function draw() {
   edges= createEdgeSprites();
   
   rabbit.collide(edges);
-   
+    
  spawnApples1()
  spawnApples2()
  spawnApples3()
